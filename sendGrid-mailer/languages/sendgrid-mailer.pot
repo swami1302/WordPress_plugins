@@ -1,0 +1,112 @@
+# Copyright (C) 2024 Swami
+# This file is distributed under the same license as the SendGrid Mailer plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SendGrid Mailer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sendGrid-mailer\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-08T09:21:50+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: sendgrid-mailer\n"
+
+#. Plugin Name of the plugin
+#: sendgrid-mailer.php
+msgid "SendGrid Mailer"
+msgstr ""
+
+#. Description of the plugin
+#: sendgrid-mailer.php
+msgid "Overrides the default mail sending functionality to use SendGrid."
+msgstr ""
+
+#. Author of the plugin
+#: sendgrid-mailer.php
+msgid "Swami"
+msgstr ""
+
+#: page.php:3
+msgid "You cannot be here"
+msgstr ""
+
+#: page.php:7
+msgid "Send Grid Mailer"
+msgstr ""
+
+#: page.php:11
+msgid "To"
+msgstr ""
+
+#: page.php:12
+msgid "Enter recipient's email"
+msgstr ""
+
+#: page.php:15
+msgid "CC"
+msgstr ""
+
+#: page.php:16
+msgid "Enter CC email"
+msgstr ""
+
+#: page.php:19
+msgid "Subject"
+msgstr ""
+
+#: page.php:20
+msgid "Enter subject"
+msgstr ""
+
+#: page.php:23
+msgid "Message"
+msgstr ""
+
+#: page.php:24
+msgid "Enter your message"
+msgstr ""
+
+#: page.php:27
+msgid "Send Email"
+msgstr ""
+
+#: sendgrid-mailer.php:27
+#: sendgrid-mailer.php:28
+msgid "SendGrid"
+msgstr ""
+
+#: sendgrid-mailer.php:59
+msgid "Nonce verification failed"
+msgstr ""
+
+#: sendgrid-mailer.php:71
+msgid "TO"
+msgstr ""
+
+#: sendgrid-mailer.php:72
+msgid "SUBJECT"
+msgstr ""
+
+#: sendgrid-mailer.php:73
+msgid "MESSAGE"
+msgstr ""
+
+#. translators: %s is the name of the empty field
+#: sendgrid-mailer.php:78
+msgid "The \"%s\" field is empty"
+msgstr ""
+
+#: sendgrid-mailer.php:99
+msgid "Email sent successfully!"
+msgstr ""
+
+#: sendgrid-mailer.php:102
+msgid "Failed to send email. Status Code: "
+msgstr ""
+
+#: sendgrid-mailer.php:105
+msgid "Caught exception: "
+msgstr ""
